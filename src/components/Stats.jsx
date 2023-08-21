@@ -11,8 +11,14 @@ const Stats = () => {
               className=" min-h-[70px] w-3/6 flex flex-col justify-center odd:border-r lg:flex-1 lg:odd:border-r lg:even:border-r lg:even:last:border-none"
               key={index}
             >
-              <div> {item.value} </div>
-              <div> {item.text} </div>
+              <div className=" lg:text-4xl font-semibold text-2xl">
+                {" "}
+                {item.value}{" "}
+              </div>
+              <div className=" text-base font-light max-w-[110px] mx-auto lg:text-xl">
+                {" "}
+                {item.text}{" "}
+              </div>
             </div>
           );
         })}
