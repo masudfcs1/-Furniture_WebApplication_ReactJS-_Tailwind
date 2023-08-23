@@ -9,14 +9,29 @@ import { newInStore } from "../data";
 
 const NewItemsSlider = () => {
   return (
-    <Swiper>
+    <Swiper
+      grabCursor={true}
+      slidesPerView={"auto"}
+      breakpoints={{
+        320: {
+          slidesPerView: 2,
+          spaceBetween: 18,
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 20,
+        },
+      }}
+    >
       {newInStore.products.map((product, index) => {
         return (
-          <SwiperSlide className=" max-w-[275px]" key={index}>
+          <SwiperSlide className=" max-w-[265px]" key={index}>
             {" "}
-            <div>
+            <div className=" relative">
               <img src={product.image.type} alt="" />
-              <div>{product.name}</div>
+              <div className=" absolute text-white bottom-[20px] text-xl ml-5 lg:font-medium capitalize ">
+                {product.name}
+              </div>
             </div>{" "}
           </SwiperSlide>
         );
