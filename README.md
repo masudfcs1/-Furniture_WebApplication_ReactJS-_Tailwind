@@ -11,6 +11,14 @@
 ![p4](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/3acbff87-e7df-4fd0-8218-141efd23efbf)
 ![p5](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/f4d39c5b-0821-474d-8a6e-32353131cb6a)
 ![p6](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/03721a75-ac96-440c-86d6-c8ad9114144f)
+![p7](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/6af58440-43b8-4417-a9eb-cb9081cfa7c4)
+![p8](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/a9076de9-6e72-4fa1-91e8-2e7ba8c55722)
+![p9](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/f20c6ddd-e387-4f0e-9bfe-4edc27134c0e)
+![p10](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/92a572f6-2451-45ef-86cf-e47a795a4db3)
+![p11](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/4b74881a-ae8f-42c7-b4c8-718dca44aae5)
+![p12](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/773ca112-0e1b-4743-b0ae-3fb40084c826)
+![p13](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/40151f6c-71ea-437a-be41-ce19ae59c336)
+![p14](https://github.com/masudfcs1/Furniture_WebApplication_ReactJS_Tailwind/assets/57311382/fac80769-854c-4ea8-b478-8504a43f7e91)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
