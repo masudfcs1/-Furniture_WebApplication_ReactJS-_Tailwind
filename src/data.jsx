@@ -340,5 +340,5 @@ export const footer = {
       href: "#",
     },
   ],
-  copyright: "FurniShop 2022 - All Rights Reserved.",
+  copyright: "FurniShop 2023 - All Rights Reserved.",
 };
