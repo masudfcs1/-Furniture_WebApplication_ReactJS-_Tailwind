@@ -1,4 +1,4 @@
-# Furniture_WebApplication_ReactJS_Tailwind
+# Furniture_WebApplication_ReactJS_Tailwindcss
 
 
 - Furniture WebApplication
